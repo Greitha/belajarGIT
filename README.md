@@ -8,7 +8,6 @@ Daftar tugas / branch
   7. Tugas-finalProject
 
 Daftar perintah GiT
-...
 - \'git branch nama_branch_baru\'
 - \'git switch nama_branch_tujuan\'
 - \'touch nama_file_baru.txt\'
@@ -17,8 +16,6 @@ Daftar perintah GiT
 - \'git status\'
 - \'git commit -m pesan_commit\'
 - \'git switch main' >> README.md
-
-echo - 'git commit -m pesan_commit\'
 - \'git merge nama_branch\'
 - \'git log --online\'
 - \'git push origin nama_branch\'
