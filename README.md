@@ -19,3 +19,7 @@ Daftar perintah GiT
 - \'git switch main' >> README.md
 
 echo - 'git commit -m pesan_commit\'
+- \'git merge nama_branch\'
+- \'git log --online\'
+- \'git push origin nama_branch\'
+- \'git push origin HEAD\'
