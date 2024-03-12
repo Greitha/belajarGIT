@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Pelealu
-=======
 Pelealu siblings
->>>>>>> 30fb49df97d18a12c3ca5a8df137bbfd65037757
